@@ -42,3 +42,9 @@ header {
 .nav-tabs {
   border-color: var(--blue) !important;
 }
+
+/* Sections */
+
+#section {
+  padding: 5em 0 5em 0;
+}

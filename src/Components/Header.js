@@ -1,12 +1,13 @@
 import Nav from "./Nav";
+import Container from "./Container";
 
 const Header = () => {
   return (
     <>
       <header>
-        <div className="container-fluid">
+        <Container className="container-fluid">
           <Nav />
-        </div>
+        </Container>
       </header>
     </>
   );
