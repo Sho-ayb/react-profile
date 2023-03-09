@@ -4,8 +4,8 @@ const Nav = () => {
   return (
     <>
       <nav className="row navbar bg-dark" data-bs-theme="dark">
-        <div className="navbar-header col-lg-6 text-center">
-          <a className="navbar-brand" href="#">
+        <div className="navbar-header col-lg-6 text-md-start text-center">
+          <a className="navbar-brand" href="/">
             Sho'ayb's Portfolio
           </a>
         </div>
@@ -33,6 +33,11 @@ const Nav = () => {
           <li className="nav-item" data-toggle="tab">
             <a className="nav-link" href="skills">
               Skills
+            </a>
+          </li>
+          <li className="nav-item" data-toggle="tab">
+            <a className="nav-link" href="#">
+              CV
             </a>
           </li>
           <li className="nav-item">

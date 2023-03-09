@@ -1,10 +1,13 @@
 import Section from "./Section";
+import Container from "./Container";
 
 const Contact = () => {
   return (
     <>
       <Section className="section__contact">
-        <h1>Contact Page</h1>
+        <Container className="container">
+          <h1>Contact Page</h1>
+        </Container>
       </Section>
     </>
   );
