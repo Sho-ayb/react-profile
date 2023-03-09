@@ -67,3 +67,10 @@ header {
   background-image: cover;
   opacity: 60%;
 }
+
+/* Footer */
+
+footer {
+  padding: 4em 0 4em 0;
+  background-color: var(--blue);
+}

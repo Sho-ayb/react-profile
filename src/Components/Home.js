@@ -1,5 +1,6 @@
 import Section from "./Section";
 import Carousel from "./Carousel";
+import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -7,6 +8,7 @@ const Home = () => {
       <Section className="section">
         <Carousel />
       </Section>
+      <Footer />
     </>
   );
 };
