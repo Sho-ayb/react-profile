@@ -1,3 +1,5 @@
+import Home from "./Home";
+
 const Nav = () => {
   return (
     <>
@@ -9,41 +11,27 @@ const Nav = () => {
         </div>
         <ul className="nav nav-tabs  col-lg-6 justify-content-center">
           <li className="nav-item">
-            <a
-              className="nav-link active"
-              aria-current="page"
-              href="index.html"
-            >
+            <a className="nav-link active" aria-current="page" href="/">
               Home
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#section__about">
+            <a className="nav-link" href="about">
               About Me
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#section__work">
+            <a className="nav-link" href="projects">
               Projects
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#section__skills">
+            <a className="nav-link" href="skills">
               Skills
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#section__skills">
-              LinkedIn
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#section__skills">
-              Github
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="contact.html">
+            <a className="nav-link" href="contact">
               Contact
             </a>
           </li>

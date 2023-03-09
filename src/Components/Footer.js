@@ -8,11 +8,29 @@ const Footer = () => {
             role="group"
             aria-label="Footer Buttons"
           >
-            <a href="#" className="btn btn-success me-1">
+            <a
+              href="https://medium.com/"
+              target="__blank"
+              className="btn btn-success me-1"
+            >
               Medium
             </a>
-            <a href="#" className="btn btn-success">
+            <a
+              href="https://dev.to/"
+              target="__blank"
+              className="btn btn-success me-1"
+            >
               Dev.to
+            </a>{" "}
+            <a
+              href="https://github.com/Sho-ayb?tab=repositories"
+              target="__blank"
+              className="btn btn-success me-1"
+            >
+              Github
+            </a>
+            <a href="#" className="btn btn-success me-1">
+              LinkedIn
             </a>
           </div>
         </div>

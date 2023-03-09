@@ -35,6 +35,10 @@ header {
   color: var(--white) !important;
 }
 
+.nav-item a {
+  color: var(--white);
+}
+
 .nav-item a:hover {
   color: var(--yellow);
 }
