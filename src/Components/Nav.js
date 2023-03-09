@@ -11,21 +11,26 @@ const Nav = () => {
         </div>
         <ul className="nav nav-tabs  col-lg-6 justify-content-center">
           <li className="nav-item">
-            <a className="nav-link active" aria-current="page" href="/">
+            <a
+              className="nav-link "
+              data-toggle="tab"
+              aria-current="page"
+              href="/"
+            >
               Home
             </a>
           </li>
-          <li className="nav-item">
+          <li className="nav-item" data-toggle="tab">
             <a className="nav-link" href="about">
               About Me
             </a>
           </li>
-          <li className="nav-item">
+          <li className="nav-item" data-toggle="tab">
             <a className="nav-link" href="projects">
               Projects
             </a>
           </li>
-          <li className="nav-item">
+          <li className="nav-item" data-toggle="tab">
             <a className="nav-link" href="skills">
               Skills
             </a>

@@ -5,7 +5,7 @@ import Footer from "./Footer";
 const Home = () => {
   return (
     <>
-      <Section className="section">
+      <Section className="section__home">
         <Carousel />
       </Section>
       <Footer />

@@ -1,8 +1,12 @@
+import Section from "./Section";
+
 const Projects = () => {
   return (
-    <div>
-      <h1>Projects Page</h1>
-    </div>
+    <>
+      <Section className="section__projects">
+        <h1>Projects Page</h1>
+      </Section>
+    </>
   );
 };
 

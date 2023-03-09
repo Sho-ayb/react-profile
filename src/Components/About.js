@@ -1,7 +1,17 @@
+import Section from "./Section";
+import Container from "./Container";
+import Jumbotron from "./Jumbotron";
+import Footer from "./Footer";
+
 const About = () => {
   return (
     <>
-      <h1>About Page</h1>
+      <Section className="section__about">
+        <Container className="container">
+          <Jumbotron />
+        </Container>
+      </Section>
+      <Footer />
     </>
   );
 };
