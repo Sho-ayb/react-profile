@@ -1,3 +1,8 @@
+import bootstrapImage from "../Images/bootstrap-image.png";
+import javascriptImage from "../Images/javascript-image.png";
+import jqueryImage from "../Images/jquery-image.png";
+import nodeImage from "../Images/nodejs-image.png";
+
 const CarouselIndicators = () => {
   return (
     <>
@@ -32,28 +37,20 @@ const CarouselIndicators = () => {
       <div className="carousel-inner">
         <div className="carousel-item active">
           <img
-            src="../Images/javascript-image.png"
+            src={javascriptImage}
             className="d-block w-100"
             alt="JavaScript logo"
           />
         </div>
         <div className="carousel-item">
-          <img
-            src="../Images/nodejs-image.png"
-            className="d-block w-100"
-            alt="Nodejs logo"
-          />
+          <img src={nodeImage} className="d-block w-100" alt="Nodejs logo" />
+        </div>
+        <div className="carousel-item">
+          <img src={jqueryImage} className="d-block w-100" alt="Jquery logo" />
         </div>
         <div className="carousel-item">
           <img
-            src="../Images/jquery_image.png"
-            className="d-block w-100"
-            alt="Jquery logo"
-          />
-        </div>
-        <div className="carousel-item">
-          <img
-            src="../Images/bootstrap-image.png"
+            src={bootstrapImage}
             className="d-block w-100"
             alt="Bootstrap logo"
           />
