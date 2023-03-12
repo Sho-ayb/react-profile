@@ -2,6 +2,7 @@ import bootstrapImage from "../Images/bootstrap-image.png";
 import javascriptImage from "../Images/javascript-image.png";
 import jqueryImage from "../Images/jquery-image.png";
 import nodeImage from "../Images/nodejs-image.png";
+import reactImage from "../Images/react-image.png";
 
 const CarouselIndicators = () => {
   return (
@@ -32,6 +33,12 @@ const CarouselIndicators = () => {
           data-bs-target="#carouselExampleIndicators"
           data-bs-slide-to="3"
           aria-label="Slide 4"
+        ></button>{" "}
+        <button
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="4"
+          aria-label="Slide 5"
         ></button>
       </div>
       <div className="carousel-inner">
@@ -54,6 +61,9 @@ const CarouselIndicators = () => {
             className="d-block w-100"
             alt="Bootstrap logo"
           />
+        </div>
+        <div className="carousel-item">
+          <img src={reactImage} className="d-block w-100" alt="React logo" />
         </div>
       </div>
       <button

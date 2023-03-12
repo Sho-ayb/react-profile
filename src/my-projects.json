@@ -1,0 +1,67 @@
+[
+  {
+    "title": "React Portfolio",
+    "image": "/Images/react-profile-capture.png",
+    "description": "A web development project built using Bootstrap v5 and rendered using React",
+    "github": "https://github.com/Sho-ayb/react-profile",
+    "deployed": "link to deployed goes here",
+    "technologies": "React, Bootstrap v5, Javascript, HTML, CSS"
+  },
+
+  {
+    "title": "Bootstrap Portfolio",
+    "image": "/Images/portfolio-capture.png",
+    "description": "A web development project built using Bootstrap v5",
+    "github": "https://github.com/Sho-ayb/Bootstrap-Portfolio",
+    "deployed": "https://sho-ayb.github.io/Bootstrap-Portfolio/",
+    "technologies": "Bootstrap v5, HTML, CSS"
+  },
+  {
+    "title": "Password Generator",
+    "image": "/Images/password- generator-capture.png",
+    "description": "A web development project built using Javascript - creates an application that generates a random password based on user prompts",
+    "github": "https://github.com/Sho-ayb/password-generator",
+    "deployed": "https://sho-ayb.github.io/password-generator/",
+    "technologies": "Bootstrap v5, HTML, CSS"
+  },
+  {
+    "title": "Team Profile Generator",
+    "image": "/Images/team-profile-html-capture.png",
+    "description": "A web development project built using Nodejs - creates an application that constructs a team rendered to a html file once the user has completed a set of questions entered on the command line",
+    "github": "https://github.com/Sho-ayb/team-profile-generator",
+    "deployed": "",
+    "technologies": "Nodejs, Javascript, Jest Tests, HTML, CSS"
+  },
+  {
+    "title": "Daily Planner Application",
+    "image": "/Images/workday-schedule-image.png",
+    "description": "An application to schedule a 9am-5pm work day",
+    "github": "https://github.com/Sho-ayb/daily-planner-app-with-jquery",
+    "deployed": "https://sho-ayb.github.io/daily-planner-app-with-jquery/",
+    "technologies": "Javascript, JQuery, HTML, CSS"
+  },
+  {
+    "title": "Weather Dashboard",
+    "image": "/Images/weather-dash-image.png",
+    "description": "A weather dashboard application using the Openweather API",
+    "github": "https://github.com/Sho-ayb/weather-dashboard-app2",
+    "deployed": "https://github.com/Sho-ayb/weather-dashboard-app2",
+    "technologies": "Javascript, HTML, CSS"
+  },
+  {
+    "title": "Console Finances",
+    "image": "/Images/console-capture-of-financial-report.png",
+    "description": "A console only application that returns an analyses from a set of records",
+    "github": "https://github.com/Sho-ayb/console-finances",
+    "deployed": "",
+    "technologies": "Javascript"
+  },
+  {
+    "title": "Readme Generator",
+    "image": "/Images/readme-generator-image.png",
+    "description": "A console command prompt application using inquirerjs to query the user on a set of questions that generates a readme.md file",
+    "github": "https://github.com/Sho-ayb/console-finances",
+    "deployed": "",
+    "technologies": "Javascript, Nodejs, Inquirerjs"
+  }
+]
