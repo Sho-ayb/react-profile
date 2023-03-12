@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%7Breact-profile%7D/static/css/main.507cf6f8.css",
+    "main.js": "/%7Breact-profile%7D/static/js/main.a76d1215.js",
+    "static/media/react-image.png": "/%7Breact-profile%7D/static/media/react-image.bdcb0a30b9abf95e1fea.png",
+    "static/media/bootstrap-image.png": "/%7Breact-profile%7D/static/media/bootstrap-image.330a5f55b9087ae105b2.png",
+    "static/media/nodejs-image.png": "/%7Breact-profile%7D/static/media/nodejs-image.e20f430af025c4f2a4f3.png",
+    "static/media/silhouette-person.png": "/%7Breact-profile%7D/static/media/silhouette-person.7560ecb4e514866ae84c.png",
+    "index.html": "/%7Breact-profile%7D/index.html",
+    "main.507cf6f8.css.map": "/%7Breact-profile%7D/static/css/main.507cf6f8.css.map",
+    "main.a76d1215.js.map": "/%7Breact-profile%7D/static/js/main.a76d1215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507cf6f8.css",
+    "static/js/main.a76d1215.js"
+  ]
+}
