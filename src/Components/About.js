@@ -5,14 +5,14 @@ import Footer from "./Footer";
 
 const About = () => {
   return (
-    <>
+    <div>
       <Section className="section__about">
         <Container className="container">
           <Jumbotron />
         </Container>
       </Section>
       <Footer />
-    </>
+    </div>
   );
 };
 

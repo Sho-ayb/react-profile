@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <>
+    <div>
       <footer>
         <div className="container position-relative">
           <div
@@ -39,7 +39,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-    </>
+    </div>
   );
 };
 

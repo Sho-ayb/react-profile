@@ -6,7 +6,7 @@ import reactImage from "../Images/react-image.png";
 
 const CarouselIndicators = () => {
   return (
-    <>
+    <div>
       <div className="carousel-indicators">
         <button
           type="button"
@@ -84,7 +84,7 @@ const CarouselIndicators = () => {
         <span className="carousel-control-next-icon" aria-hidden="true"></span>
         <span className="visually-hidden">Next</span>
       </button>
-    </>
+    </div>
   );
 };
 

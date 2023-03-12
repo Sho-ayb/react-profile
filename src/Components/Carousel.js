@@ -3,7 +3,7 @@ import CarouselIndicators from "./CarouselIndicators";
 
 const Carousel = () => {
   return (
-    <>
+    <div>
       <Container className="container">
         <div
           id="carouselExampleIndicators"
@@ -13,7 +13,7 @@ const Carousel = () => {
           <CarouselIndicators />
         </div>
       </Container>
-    </>
+    </div>
   );
 };
 

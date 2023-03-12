@@ -2,9 +2,9 @@
 
 const Section = (props) => {
   return (
-    <>
+    <div>
       <section id={props.className}>{props.children}</section>
-    </>
+    </div>
   );
 };
 

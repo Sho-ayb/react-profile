@@ -11,7 +11,7 @@ const Projects = () => {
   console.log(myProjectsParsed);
 
   return (
-    <>
+    <div>
       <Section className="section__projects">
         <Container className="container">
           <h2 className="text-center p-5">Projects</h2>
@@ -54,7 +54,7 @@ const Projects = () => {
         </Container>
       </Section>
       <Footer />
-    </>
+    </div>
   );
 };
 

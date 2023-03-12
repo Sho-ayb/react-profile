@@ -2,7 +2,7 @@ import Home from "./Home";
 
 const Nav = () => {
   return (
-    <>
+    <div>
       <nav className="row navbar bg-dark" data-bs-theme="dark">
         <div className="navbar-header col-lg-6 text-md-start text-center">
           <a className="navbar-brand" href="/">
@@ -47,7 +47,7 @@ const Nav = () => {
           </li>
         </ul>
       </nav>
-    </>
+    </div>
   );
 };
 

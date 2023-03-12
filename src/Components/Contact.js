@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 const Contact = () => {
   return (
-    <>
+    <div>
       <Section className="section__contact">
         <Container className="container">
           <h2 className="text-center p-5">Contact</h2>
@@ -43,7 +43,7 @@ const Contact = () => {
         </Container>
         <Footer />
       </Section>
-    </>
+    </div>
   );
 };
 

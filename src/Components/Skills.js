@@ -5,7 +5,7 @@ import Row from "./Row";
 
 const Skills = () => {
   return (
-    <>
+    <div>
       <Section className="section__skills">
         <Container className="container">
           <h2 className="text-center p-5">Skills</h2>
@@ -55,7 +55,7 @@ const Skills = () => {
         </Container>
       </Section>
       <Footer />
-    </>
+    </div>
   );
 };
 
