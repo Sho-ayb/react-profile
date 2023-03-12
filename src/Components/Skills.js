@@ -8,7 +8,7 @@ const Skills = () => {
     <>
       <Section className="section__skills">
         <Container className="container">
-          <h2 className="text-center p-5">Skills Page</h2>
+          <h2 className="text-center p-5">Skills</h2>
           <Row>
             <table class="table table-dark table-striped">
               <thead>
