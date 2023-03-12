@@ -36,7 +36,7 @@ const Nav = () => {
             </a>
           </li>
           <li className="nav-item" data-toggle="tab">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="/Docs/CV.pdf">
               CV
             </a>
           </li>
