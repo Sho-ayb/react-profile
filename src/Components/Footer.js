@@ -29,7 +29,11 @@ const Footer = () => {
             >
               Github
             </a>
-            <a href="#" className="btn btn-success me-1">
+            <a
+              href="https://www.linkedin.com/in/sho-ayb-choudhry-4a906426a/"
+              target="__blank"
+              className="btn btn-success me-1"
+            >
               LinkedIn
             </a>
           </div>
