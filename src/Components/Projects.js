@@ -20,9 +20,9 @@ const Projects = () => {
               <div className="col" key={key}>
                 <div className="card w-auto h-100">
                   <img
-                    src={project.image}
+                    src={process.env.PUBLIC_URL + project.image}
                     className="card-img-top"
-                    alt="Hollywood Sign on The Hill"
+                    alt="project capture"
                   />
                   <div className="card-body">
                     <h5 className="card-title">

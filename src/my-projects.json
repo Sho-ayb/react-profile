@@ -1,7 +1,7 @@
 [
   {
     "title": "React Portfolio",
-    "image": "/Images/react-profile-capture.png",
+    "image": "/Images/react-portfolio.png",
     "description": "A web development project built using Bootstrap v5 and rendered using React",
     "github": "https://github.com/Sho-ayb/react-profile",
     "deployed": "link to deployed goes here",

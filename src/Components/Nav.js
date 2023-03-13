@@ -1,49 +1,48 @@
-import Home from "./Home";
+import { Link } from "react-router-dom";
+import CV from "../Docs/CV.pdf";
 
 const Nav = () => {
   return (
     <div>
       <nav className="row navbar bg-dark" data-bs-theme="dark">
         <div className="navbar-header col-lg-6 text-md-start text-center">
-          <a className="navbar-brand" href="/">
+          {/* <a className="navbar-brand" href="/">
             Sho'ayb's Portfolio
-          </a>
+          </a> */}
+          <Link className="navbar-brand" to="/">
+            Sho'ayb's Portfolio
+          </Link>
         </div>
         <ul className="nav nav-tabs  col-lg-6 justify-content-center">
           <li className="nav-item">
-            <a
-              className="nav-link "
-              data-toggle="tab"
-              aria-current="page"
-              href="/"
-            >
+            <Link className="nav-link" to="/">
               Home
-            </a>
+            </Link>
           </li>
-          <li className="nav-item" data-toggle="tab">
-            <a className="nav-link" href="about">
-              About Me
-            </a>
+          <li className="nav-item">
+            <Link className="nav-link" to="/about">
+              About
+            </Link>
           </li>
-          <li className="nav-item" data-toggle="tab">
-            <a className="nav-link" href="projects">
+          <li className="nav-item">
+            <Link className="nav-link" to="/projects">
               Projects
-            </a>
+            </Link>
           </li>
-          <li className="nav-item" data-toggle="tab">
-            <a className="nav-link" href="skills">
+          <li className="nav-item">
+            <Link className="nav-link" to="/skills">
               Skills
-            </a>
+            </Link>
           </li>
-          <li className="nav-item" data-toggle="tab">
-            <a className="nav-link" href="/Docs/CV.pdf">
+          <li className="nav-item">
+            <a className="nav-link" href={CV} target="_blank">
               CV
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="contact">
+            <Link className="nav-link" to="/contact">
               Contact
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>
