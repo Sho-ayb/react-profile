@@ -43,11 +43,11 @@ No testing is required.
 
 ## Github
 
-[Link to Github]("https://github.com/Sho-ayb/react-profile")
+[Link to Github](https://github.com/Sho-ayb/react-profile)
 
 ## Deployed Live
 
-[Deployed on Github]("https://sho-ayb.github.io/react-profile/")
+[Deployed on Github](https://sho-ayb.github.io/react-profile/)
 
 ## Questions
 
