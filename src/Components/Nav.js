@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import CV from "../Docs/CV.pdf";
+import CV from "../Assets/CV.pdf";
 
 const Nav = () => {
   return (
