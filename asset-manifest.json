@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-profile/static/css/main.507cf6f8.css",
-    "main.js": "/react-profile/static/js/main.ce3c322d.js",
-    "static/media/react-image.png": "/react-profile/static/media/react-image.bdcb0a30b9abf95e1fea.png",
-    "static/media/CV.pdf": "/react-profile/static/media/CV.4227fa6e71b01f9fd0cc.pdf",
-    "static/media/bootstrap-image.png": "/react-profile/static/media/bootstrap-image.330a5f55b9087ae105b2.png",
-    "static/media/nodejs-image.png": "/react-profile/static/media/nodejs-image.e20f430af025c4f2a4f3.png",
-    "static/media/silhouette-person.png": "/react-profile/static/media/silhouette-person.7560ecb4e514866ae84c.png",
-    "index.html": "/react-profile/index.html",
-    "main.507cf6f8.css.map": "/react-profile/static/css/main.507cf6f8.css.map",
-    "main.ce3c322d.js.map": "/react-profile/static/js/main.ce3c322d.js.map"
+    "main.css": "/static/css/main.507cf6f8.css",
+    "main.js": "/static/js/main.71680e83.js",
+    "static/media/react-image.png": "/static/media/react-image.bdcb0a30b9abf95e1fea.png",
+    "static/media/CV.pdf": "/static/media/CV.4227fa6e71b01f9fd0cc.pdf",
+    "static/media/bootstrap-image.png": "/static/media/bootstrap-image.330a5f55b9087ae105b2.png",
+    "static/media/nodejs-image.png": "/static/media/nodejs-image.e20f430af025c4f2a4f3.png",
+    "static/media/silhouette-person.png": "/static/media/silhouette-person.7560ecb4e514866ae84c.png",
+    "index.html": "/index.html",
+    "main.507cf6f8.css.map": "/static/css/main.507cf6f8.css.map",
+    "main.71680e83.js.map": "/static/js/main.71680e83.js.map"
   },
   "entrypoints": [
     "static/css/main.507cf6f8.css",
-    "static/js/main.ce3c322d.js"
+    "static/js/main.71680e83.js"
   ]
 }
