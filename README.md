@@ -39,7 +39,7 @@ No testing is required.
 
 ## Image of React Portfolio
 
-![Image of react portfolio](public/Images/react-profile-capture.png);
+![Image of react portfolio](public/Images/react-profile-capture.png)
 
 ## Github
 
