@@ -3,10 +3,10 @@ import silhouttePerson from "../Images/silhouette-person.png";
 const Jumbotron = () => {
   return (
     <>
-      <div class="row align-items-md-stretch">
-        <div class="col-md-6">
-          <div class="h-100 p-5 text-bg-light rounded-3">
-            <h2 class="about__me">About Me</h2>
+      <div className="row align-items-md-stretch">
+        <div className="col-md-6">
+          <div className="h-100 p-5 text-bg-light rounded-3">
+            <h2 className="about__me">About Me</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
               labore nesciunt id molestias! Ratione rerum enim exercitationem,
@@ -21,10 +21,10 @@ const Jumbotron = () => {
             </p>
           </div>
         </div>
-        <div class="col-md-6">
-          <div class="h-100 p-5 text-bg-dark rounded-3">
-            <h2 class="about__me">Picture</h2>
-            <img class="img-fluid" src={silhouttePerson} alt="about picture" />
+        <div className="col-md-6">
+          <div className="h-100 p-5 text-bg-dark rounded-3">
+            <h2 className="about__me">Picture</h2>
+            <img className="img-fluid" src={silhouttePerson} alt="about" />
           </div>
         </div>
       </div>

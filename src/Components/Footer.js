@@ -11,6 +11,7 @@ const Footer = () => {
             <a
               href="https://medium.com/"
               target="__blank"
+              rel="noreferrer"
               className="btn btn-success me-1"
             >
               Medium
@@ -18,13 +19,15 @@ const Footer = () => {
             <a
               href="https://dev.to/"
               target="__blank"
+              rel="noreferrer"
               className="btn btn-success me-1"
             >
               Dev.to
-            </a>{" "}
+            </a>
             <a
               href="https://github.com/Sho-ayb?tab=repositories"
               target="__blank"
+              rel="noreferrer"
               className="btn btn-success me-1"
             >
               Github
@@ -32,6 +35,7 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/sho-ayb-choudhry-4a906426a/"
               target="__blank"
+              rel="noreferrer"
               className="btn btn-success me-1"
             >
               LinkedIn

@@ -1,7 +1,15 @@
 [
   {
+    "title": "My Favourite Movies",
+    "image": "/Images/movie-favourites-capture.png",
+    "description": "A team project to create a movie favourites application",
+    "github": "https://github.com/rcm6/my-favourite-movies",
+    "deployed": "https://rcm6.github.io/my-favourite-movies/",
+    "technologies": "Bootstrap v5, JQuery, Javascript, HTML, CSS"
+  },
+  {
     "title": "React Portfolio",
-    "image": "/Images/react-portfolio.png",
+    "image": "/Images/react-profile-capture.png",
     "description": "A web development project built using Bootstrap v5 and rendered using React",
     "github": "https://github.com/Sho-ayb/react-profile",
     "deployed": "link to deployed goes here",

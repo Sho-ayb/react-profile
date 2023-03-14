@@ -10,7 +10,7 @@ const Skills = () => {
         <Container className="container">
           <h2 className="text-center p-5">Skills</h2>
           <Row>
-            <table class="table table-dark table-striped">
+            <table className="table table-dark table-striped">
               <thead>
                 <tr>
                   <th scope="col">Frontend</th>
@@ -19,7 +19,7 @@ const Skills = () => {
                 </tr>
               </thead>
               <tbody>
-                <tr class="table-secondary">
+                <tr className="table-secondary">
                   <th scope="row">1</th>
                   <td>HTML</td>
                   <td>Nodejs</td>
@@ -29,7 +29,7 @@ const Skills = () => {
                   <td>CSS</td>
                   <td>MongoDB</td>
                 </tr>
-                <tr class="table-secondary">
+                <tr className="table-secondary">
                   <th scope="row">3</th>
                   <td>Sass</td>
                   <td>Mongoose</td>
@@ -39,7 +39,7 @@ const Skills = () => {
                   <td>JavaScript</td>
                   <td>-</td>
                 </tr>
-                <tr class="table-secondary">
+                <tr className="table-secondary">
                   <th scope="row">6</th>
                   <td>Jquery</td>
                   <td>-</td>

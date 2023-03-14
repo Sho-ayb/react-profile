@@ -6,10 +6,7 @@ const Nav = () => {
     <div>
       <nav className="row navbar bg-dark" data-bs-theme="dark">
         <div className="navbar-header col-lg-6 text-md-start text-center">
-          {/* <a className="navbar-brand" href="/">
-            Sho'ayb's Portfolio
-          </a> */}
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand ms-3" to="/">
             Sho'ayb's Portfolio
           </Link>
         </div>
@@ -35,7 +32,7 @@ const Nav = () => {
             </Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href={CV} target="_blank">
+            <a className="nav-link" href={CV} target="_blank" rel="noreferrer">
               CV
             </a>
           </li>
