@@ -47,6 +47,8 @@ No testing is required.
 
 ## Deployed Live
 
+[Deployed on Github]("https://sho-ayb.github.io/react-profile/")
+
 ## Questions
 
 Please contact through Github if you have any questions. Thanks.
