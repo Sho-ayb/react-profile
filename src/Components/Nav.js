@@ -16,17 +16,17 @@ const Nav = () => {
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="about">
+          <Link className="nav-link" to="/about">
             About
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="projects">
+          <Link className="nav-link" to="/projects">
             Projects
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="skills">
+          <Link className="nav-link" to="/skills">
             Skills
           </Link>
         </li>
@@ -36,7 +36,7 @@ const Nav = () => {
           </a>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="contact">
+          <Link className="nav-link" to="/contact">
             Contact
           </Link>
         </li>
