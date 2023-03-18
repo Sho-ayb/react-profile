@@ -68,16 +68,16 @@ const App = () => {
       <Route exact path="/react-profile">
         <Home />
       </Route>
-      <Route exact path="/about">
+      <Route exact path="react-profile/about">
         <About />
       </Route>
-      <Route exact path="/projects">
+      <Route exact path="react-profile/projects">
         <Projects />
       </Route>
-      <Route exact path="/skills">
+      <Route exact path="react-profile/skills">
         <Skills />
       </Route>
-      <Route exact path="/contact">
+      <Route exact path="react-profile/contact">
         <Contact />
       </Route>
     </Switch>
