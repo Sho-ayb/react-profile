@@ -12,7 +12,7 @@
     "image": "/Images/react-profile-capture.png",
     "description": "A web development project built using Bootstrap v5 and rendered using React",
     "github": "https://github.com/Sho-ayb/react-profile",
-    "deployed": "link to deployed goes here",
+    "deployed": "https://sho-ayb.github.io/react-profile/",
     "technologies": "React, Bootstrap v5, Javascript, HTML, CSS"
   },
 
